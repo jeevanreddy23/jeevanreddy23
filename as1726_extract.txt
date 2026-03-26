@@ -1,0 +1,72 @@
+   Storage of samples 
+   General 
+   Geotechnical data report 
+   Geotechnical interpretive report 
+The nature and constraints of the project and proposed development
+The nature and limitations of the geotechnical model
+The nature and limitation of data
+   General 
+   Basic approach 
+   Systematic description 
+Composition of soil (disturbed or undisturbed state)
+Condition of soil
+in situ
+Structure of soil
+Origin of soil
+Additional observations
+   Composition of soils 
+   General 
+   Soil components 
+   Identification of components 
+   Soil name 
+   Assessment of primary component 
+   Assessment of secondary and minor components 
+   Assignment of a name 
+   Peat soils 
+   Carbonate soils 
+   Plasticity and behaviour (fine grained soils) 
+   Particle characteristics (coarse grained soil) 
+C
+C
+DCDDCD DDD D
+   Colour 
+   Soil classification 
+C
+C
+C
+C
+C
+C
+   Condition of soil 
+Moisture condition
+w
+w
+w
+w
+w
+
+Consistency
+Relative density of non-cohesive, coarse grained soils
+in situ
+Cementation
+Weakly cemented
+Moderately cemented
+   Mass properties of soil 
+Zoning in situ
+Defects
+Mixed soils
+   Soil origin 
+in situ
+Residual soil in situ
+Extremely weathered material in situ
+Alluvial soil
+Estuarine soil
+Marine soil
+Lacustrine soil
+Aeolian soil
+Colluvial soil
+Topsoil
+Fill
+   Additional observations 
+   Description of fills 
+   General 
